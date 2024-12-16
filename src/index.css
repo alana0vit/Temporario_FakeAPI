@@ -66,8 +66,3 @@ h1{
   padding: 10px;
   color: #ff0000;
 }
-
-.pokemon-card{
-  width: 35%;
-  display: flex;
-}
